@@ -1,0 +1,9 @@
+{
+  "parent": "comfycoffin:custom/coffin2",
+  "textures": {
+    "all": "comfycoffin:blocks/paving1",
+    "particle": "comfycoffin:blocks/paving1",
+    "1": "comfycoffin:blocks/coffin2",
+    "2": "comfycoffin:blocks/paving1"
+  }
+}

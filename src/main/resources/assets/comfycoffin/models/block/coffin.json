@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "comfycoffin:blocks/coffin_stone",
+    "up": "comfycoffin:blocks/coffin_stone",
+    "north": "comfycoffin:blocks/coffin_stone",
+    "east": "comfycoffin:blocks/coffin_stone",
+    "south": "comfycoffin:blocks/coffin_stone",
+    "west": "comfycoffin:blocks/coffin_stone",
+    "particle": "comfycoffin:blocks/coffin_stone"
+  }
+}

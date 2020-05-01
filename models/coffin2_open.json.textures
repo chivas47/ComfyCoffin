@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "paving1",
+        "1": "coffin2"
+      },
+      "name": "default"
+    }
+  }
+}

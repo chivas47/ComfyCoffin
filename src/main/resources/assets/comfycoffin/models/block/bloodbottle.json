@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/bloodbottle",
+  "textures": {
+    "all": "comfycoffin:blocks/bloodottle",
+    "particle": "comfycoffin:blocks/bloodottle",
+    "0": "comfycoffin:blocks/bloodottle"
+  }
+}

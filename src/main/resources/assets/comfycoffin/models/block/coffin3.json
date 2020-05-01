@@ -1,0 +1,9 @@
+{
+  "parent": "comfycoffin:custom/coffin3",
+  "textures": {
+    "all": "comfycoffin:blocks/loodstone1",
+    "particle": "comfycoffin:blocks/loodstone1",
+    "0": "comfycoffin:blocks/loodstone1",
+    "1": "comfycoffin:blocks/coffin_stoneid"
+  }
+}

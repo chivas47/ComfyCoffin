@@ -1,0 +1,7 @@
+{
+  "parent": "comfycoffin:custom/coffin_open",
+  "textures": {
+    "all": "comfycoffin:blocks/coffin_stone",
+    "particle": "comfycoffin:blocks/coffin_stone"
+  }
+}

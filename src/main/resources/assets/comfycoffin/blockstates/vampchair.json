@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "comfycoffin:block/vampchair"
+    },
+    "facing=east": {
+      "model": "comfycoffin:block/vampchair",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "comfycoffin:block/vampchair",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "comfycoffin:block/vampchair",
+      "y": 270
+    }
+  }
+}

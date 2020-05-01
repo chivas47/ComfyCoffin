@@ -1,0 +1,29 @@
+{
+  "group": "comfycoffin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "comfycoffin:vampireclay"
+    },
+    "2": {
+      "item": "comfycoffin:vampireclay"
+    },
+    "3": {
+      "item": "comfycoffin:vampireclay"
+    },
+    "4": {
+      "item": "comfycoffin:vampireclay"
+    },
+    "5": {
+      "item": "comfycoffin:vampireclay"
+    }
+  },
+  "result": {
+    "item": "comfycoffin:coffinstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "loodstone1",
+        "1": "coffin_stoneid"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/vampchair",
+  "textures": {
+    "all": "comfycoffin:blocks/vampire_wood_planks",
+    "particle": "comfycoffin:blocks/vampire_wood_planks",
+    "0": "comfycoffin:blocks/vampire_wood_planks"
+  }
+}

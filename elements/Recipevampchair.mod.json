@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:VampireClay"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:VampireClay"
+      },
+      {
+        "value": "CUSTOM:VampireClay"
+      },
+      {
+        "value": "CUSTOM:VampireClay"
+      },
+      {
+        "value": "CUSTOM:VampireClay"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:VampireClay"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Vampchair"
+    },
+    "name": "vampchair",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/llamastatue",
+  "textures": {
+    "all": "comfycoffin:blocks/marble1",
+    "particle": "comfycoffin:blocks/marble1",
+    "0": "comfycoffin:blocks/marble1"
+  }
+}

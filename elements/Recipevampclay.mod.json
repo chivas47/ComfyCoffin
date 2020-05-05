@@ -6,7 +6,7 @@
     "xpReward": 0.0,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": ""
@@ -21,25 +21,25 @@
         "value": ""
       },
       {
-        "value": "Items.CLAY_BALL"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
         "value": "Items.DYE#16"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.CLAY_BALL"
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:VampireClay"
+      "value": "CUSTOM:Itemvampclay"
     },
-    "name": "vampireclay",
+    "name": "vampclay",
     "namespace": "mod"
   }
 }

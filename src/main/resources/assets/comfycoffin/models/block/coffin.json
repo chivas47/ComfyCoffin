@@ -1,12 +1,11 @@
 {
-  "parent": "block/cube",
+  "parent": "comfycoffin:custom/coffin",
   "textures": {
-    "down": "comfycoffin:blocks/coffin_stone",
-    "up": "comfycoffin:blocks/coffin_stone",
-    "north": "comfycoffin:blocks/coffin_stone",
-    "east": "comfycoffin:blocks/coffin_stone",
-    "south": "comfycoffin:blocks/coffin_stone",
-    "west": "comfycoffin:blocks/coffin_stone",
-    "particle": "comfycoffin:blocks/coffin_stone"
+    "all": "comfycoffin:blocks/coffin_stone",
+    "particle": "comfycoffin:blocks/coffin_stone",
+    "1": "comfycoffin:blocks/coffin_stone",
+    "2": "comfycoffin:blocks/coffin_stonenterior",
+    "3": "comfycoffin:blocks/coffin_interior",
+    "4": "comfycoffin:blocks/coffin_stoneid"
   }
 }

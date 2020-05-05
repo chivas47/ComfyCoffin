@@ -1,0 +1,89 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "coffin/blood"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [4.5, 7.5, 4.5],
+			"to": [11.5, 15.5, 11.5],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -6, 8]},
+			"faces": {
+				"north": {"uv": [4, 2, 2, 4.25], "texture": "#0"},
+				"east": {"uv": [6, 2, 4, 4.25], "texture": "#0"},
+				"south": {"uv": [8, 2, 6, 4.25], "texture": "#0"},
+				"west": {"uv": [2, 2, 0, 4.25], "texture": "#0"},
+				"up": {"uv": [2, 2, 4, 0], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "body",
+			"from": [3.5, 3.5, 3.5],
+			"to": [12.5, 11.5, 12.5],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -4, 8]},
+			"faces": {
+				"north": {"uv": [5, 6.5, 2.5, 8.75], "texture": "#0"},
+				"east": {"uv": [7.5, 6.5, 5, 8.75], "texture": "#0"},
+				"south": {"uv": [10, 6.5, 7.5, 8.75], "texture": "#0"},
+				"west": {"uv": [2.5, 6.5, 0, 8.75], "texture": "#0"},
+				"up": {"uv": [2.5, 6.5, 5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "body_bottom",
+			"from": [2.5, 0.5, 2.5],
+			"to": [13.5, 7.5, 13.5],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1, 8]},
+			"faces": {
+				"north": {"uv": [6, 12, 3, 14], "texture": "#0"},
+				"east": {"uv": [9, 12, 6, 14], "texture": "#0"},
+				"south": {"uv": [12, 12, 9, 14], "texture": "#0"},
+				"west": {"uv": [3, 12, 0, 14], "texture": "#0"},
+				"up": {"uv": [3, 12, 6, 9], "texture": "#0"},
+				"down": {"uv": [6, 9, 9, 12], "texture": "#0", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "knot",
+			"origin": [0, 2, 0],
+			"children": []
+		},
+		{
+			"name": "head",
+			"shade": false,
+			"origin": [0, 20, 0],
+			"children": [0]
+		},
+		{
+			"name": "left_hand",
+			"shade": false,
+			"origin": [-15, 18, 0],
+			"children": []
+		},
+		{
+			"name": "right_hand",
+			"shade": false,
+			"origin": [5, 18, 0],
+			"children": []
+		},
+		{
+			"name": "body",
+			"shade": false,
+			"origin": [0, 11, 0],
+			"children": [1]
+		},
+		{
+			"name": "body_bottom",
+			"shade": false,
+			"origin": [0, 0, 0],
+			"children": [2]
+		}
+	]
+}

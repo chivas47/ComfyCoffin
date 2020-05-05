@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/villagerstatue",
+  "textures": {
+    "all": "comfycoffin:blocks/villager-hunter",
+    "particle": "comfycoffin:blocks/villager-hunter",
+    "0": "comfycoffin:blocks/villager-hunter"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/lilithstatue",
+  "textures": {
+    "all": "comfycoffin:blocks/lilith",
+    "particle": "comfycoffin:blocks/lilith",
+    "0": "comfycoffin:blocks/lilith"
+  }
+}

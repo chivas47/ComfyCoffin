@@ -214,22 +214,6 @@
       "ids": {}
     },
     {
-      "name": "VampireClay",
-      "type": "item",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Vampireclay",
-      "type": "recipe",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "Recipecoffin",
       "type": "recipe",
       "sortid": 23,
@@ -300,31 +284,319 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Sanguineclay",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipesanguineclay",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Itemvampclay",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipevampclay",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Effegy",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Wolfstatue",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Weirdstatue",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lilith_statue",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Elitevamp_statue",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Villager_statue",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Vampire_Statue",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RecipeStatue",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_statue0",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_statue1",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_statue2",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_statue3",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_effegy",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipe_weirdStatue",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Vampirealtar",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipealtar",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bloodglass",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipeglass",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bloodcake",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipebloodcake",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Piglinstatue",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipepiglinstatue",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PandaStatue",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipepandastatue",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Phantom_Statue",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Llama_Statue",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bloodlectern",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Recipestatue4",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RecipebloodLectern",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "RecipellamaStatue",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.comfycoffin.vamptable": "Vamp Table",
+      "block.comfycoffin.phantom_statue": "Phantom Statue",
+      "block.comfycoffin.vampire_statue": "Vampire Statue",
+      "block.comfycoffin.pandastatue": "Panda Statue",
+      "block.comfycoffin.piglinstatue": "Piglin Statue",
+      "block.comfycoffin.bloodbottle": "Blood Bottle",
+      "item.comfycoffin.itemvampclay": "Vampire Clay",
+      "item.comfycoffin.coffinstone": "Stone Coffin",
+      "block.comfycoffin.bloodlectern": "Blood Lectern",
+      "block.comfycoffin.coffin2_open": "Mural Stone Coffin",
+      "block.comfycoffin.vampdoll": "Vamp Doll",
+      "block.comfycoffin.coffinopen": "Stone Coffin",
+      "block.comfycoffin.elitevamp_statue": "Elite Vampire Statue",
+      "block.comfycoffin.wolfstatue": "Wolf Statue",
+      "block.comfycoffin.bloodcake": "Blood Cake",
+      "block.comfycoffin.villager_statue": "Hunter Statue",
+      "block.comfycoffin.coffin1_open": "Decorative Stone Coffin",
+      "block.comfycoffin.llama_statue": "Llama Statue",
+      "item.comfycoffin.sanguineclay": "Sanguine Clay",
+      "block.comfycoffin.vampirealtar": "Vampire Altar",
       "block.comfycoffin.coffin0_open": "Vampire Stone Coffin",
       "block.comfycoffin.coffin": "Stone Coffin",
-      "block.comfycoffin.vamptable": "Vamp Table",
+      "block.comfycoffin.weirdstatue": "Weird Statue",
       "item.comfycoffin.item_coffin1": "Decorative Stone Coffin",
       "block.comfycoffin.coffin3_open": "Marvelous Stone Coffin",
       "item.comfycoffin.item_coffin2": "Mural Stone Coffin",
       "block.comfycoffin.vampchair": "Vamp Chair",
       "item.comfycoffin.item_coffin3": "Marvelous Stone Coffin",
-      "item.comfycoffin.vampireclay": "vampireclay",
-      "block.comfycoffin.bloodbottle": "Blood Bottle",
       "item.comfycoffin.item_coffin0": "Vampire Coffin",
-      "item.comfycoffin.coffinstone": "Stone Coffin",
-      "block.comfycoffin.coffin2_open": "Mural Stone Coffin",
-      "block.comfycoffin.vampdoll": "Vamp Doll",
       "block.comfycoffin.coffin1": "Decorative Stone Coffin",
-      "block.comfycoffin.coffinopen": "Stone Coffin",
       "block.comfycoffin.coffin2": "Mural Stone Coffin",
       "block.comfycoffin.coffin0": "Vampire Stone Coffin",
-      "block.comfycoffin.coffin1_open": "Decorative Stone Coffin",
+      "block.comfycoffin.lilith_statue": "Lilith\u0027s Statue",
+      "block.comfycoffin.effegy": "Effegy",
+      "block.comfycoffin.bloodglass": "Glass of Blood",
       "block.comfycoffin.coffin3": "Marvelous Stone Coffin"
     }
   },

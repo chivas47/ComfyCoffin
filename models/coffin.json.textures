@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "coffin_stone",
+        "2": "coffin_stonenterior",
+        "3": "coffin_interior",
+        "4": "coffin_stoneid"
+      },
+      "name": "default"
+    }
+  }
+}

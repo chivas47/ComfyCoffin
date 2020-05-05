@@ -1,0 +1,13 @@
+{
+  "parent": "comfycoffin:custom/vampire_altar",
+  "textures": {
+    "all": "comfycoffin:blocks/coffin_stoneid",
+    "particle": "comfycoffin:blocks/coffin_stoneid",
+    "1": "comfycoffin:blocks/coffin_stoneid",
+    "2": "comfycoffin:blocks/vampire_wood_planks",
+    "3": "comfycoffin:blocks/paving1",
+    "4": "comfycoffin:blocks/vampire_cobblestone_top",
+    "5": "comfycoffin:blocks/marble1",
+    "6": "comfycoffin:blocks/blood"
+  }
+}

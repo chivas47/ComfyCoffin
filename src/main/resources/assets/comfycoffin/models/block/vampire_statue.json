@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/vampstatue",
+  "textures": {
+    "all": "comfycoffin:blocks/ampire0",
+    "particle": "comfycoffin:blocks/ampire0",
+    "0": "comfycoffin:blocks/ampire0"
+  }
+}

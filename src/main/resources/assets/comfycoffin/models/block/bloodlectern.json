@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/vamplectern",
+  "textures": {
+    "all": "comfycoffin:blocks/blood",
+    "particle": "comfycoffin:blocks/blood",
+    "1": "comfycoffin:blocks/blood"
+  }
+}

@@ -9,7 +9,7 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       },
       {
         "value": ""
@@ -18,22 +18,22 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       },
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       },
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       },
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:VampireClay"
+        "value": "CUSTOM:Itemvampclay"
       }
     ],
     "recipeReturnStack": {

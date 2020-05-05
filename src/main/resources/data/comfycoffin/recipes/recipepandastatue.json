@@ -1,0 +1,16 @@
+{
+  "group": "comfycoffin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "comfycoffin:sanguineclay"
+    }
+  },
+  "result": {
+    "item": "comfycoffin:pandastatue",
+    "count": 1
+  }
+}

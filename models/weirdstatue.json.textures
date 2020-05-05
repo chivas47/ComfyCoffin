@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "vampire_cobblestone_top"
+      },
+      "name": "default"
+    }
+  }
+}

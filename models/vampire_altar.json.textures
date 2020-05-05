@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "coffin_stoneid",
+        "2": "vampire_wood_planks",
+        "3": "paving1",
+        "4": "vampire_cobblestone_top",
+        "5": "marble1",
+        "6": "blood"
+      },
+      "name": "default"
+    }
+  }
+}

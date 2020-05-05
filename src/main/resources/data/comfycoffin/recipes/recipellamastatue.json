@@ -1,0 +1,19 @@
+{
+  "group": "comfycoffin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "comfycoffin:itemvampclay"
+    },
+    "1": {
+      "item": "comfycoffin:itemvampclay"
+    }
+  },
+  "result": {
+    "item": "comfycoffin:llama_statue",
+    "count": 1
+  }
+}

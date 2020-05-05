@@ -1,0 +1,8 @@
+{
+  "parent": "comfycoffin:custom/weirdstatue",
+  "textures": {
+    "all": "comfycoffin:blocks/vampire_cobblestone_top",
+    "particle": "comfycoffin:blocks/vampire_cobblestone_top",
+    "0": "comfycoffin:blocks/vampire_cobblestone_top"
+  }
+}
